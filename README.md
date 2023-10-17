@@ -6,7 +6,9 @@ The main folder contains all the notebooks for the analysis. The order to run th
 1. mvpa_step00_extract_features: extract features based on different masks;
 2. mvpa_step01_cross_validation: conduct cross-validation on the discovery dataset;
 3. mvpa_step02_external_validation: conduct external validation on the validation datasets;
-4. mvpa_step03_predictive_patterns: estimate predictive patterns
+4. mvpa_step03_predictive_patterns: estimate predictive patterns.
+
+
 To replicate the figures in the paper:
 1. mvpa_plot_decoding_accuracy: Fig. 1A-C and Fig. 2A-C
 2. mvpa_plot_threat_circuit_patterns: Fig. 1D
