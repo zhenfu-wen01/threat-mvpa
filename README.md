@@ -2,6 +2,8 @@
 
 This repository contains code and data for the paper: Distributed neural representations of conditioned threat in the human brain.
 
+Install Python 3.8 and run 'pip -r install requirements.txt' to install the required toolboxes.
+
 The main folder contains all the notebooks for the analysis. The order to run the codes:
 1. mvpa_step00_extract_features: extract features based on different masks;
 2. mvpa_step01_cross_validation: conduct cross-validation on the discovery dataset;
