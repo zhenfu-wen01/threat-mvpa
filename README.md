@@ -15,6 +15,7 @@ To replicate the figures in the paper:
 1. mvpa_plot_decoding_accuracy: Fig. 1A-C and Fig. 2A-C
 2. mvpa_plot_threat_circuit_patterns: Fig. 1D
 3. mvpa_plot_whole_brain_patterns: Fig. 2D
+4. mvpa_plot_generalization_accuracy: Fig. 3B-I
 
 The masks folder contains all the masks used in the study.
 The models folder contains all the trained models (classifiers).
