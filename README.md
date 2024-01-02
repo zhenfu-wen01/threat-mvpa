@@ -24,7 +24,7 @@ The masks folder contains all the masks used in the study.
 
 The models folder contains all the trained models (classifiers).
 
-The predictive_maps folder contains predictive patterns shown in Fig.1D and Fig. 2D.
+The predictive_maps folder contains predictive patterns shown in Fig. 2D.
 
 The results folder contains data to produce the figures.
 
